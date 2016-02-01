@@ -1,0 +1,16 @@
+{
+  "name": "codecademy-atom-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax highlighting for Atom based on codecademy.com",
+  "keywords": [
+    "syntax",
+    "theme",
+    "codecademy"
+  ],
+  "repository": "https://github.com/mikedisbrow/codecademy-atom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
