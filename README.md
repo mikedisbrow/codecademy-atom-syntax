@@ -1,4 +1,4 @@
-# codecademy-syntax
+# codecademy-atom-syntax
 
 Syntax highlighting for [Atom](http://www.atom.io) using colors from [Codecademy](http://www.codecademy.com).
 
